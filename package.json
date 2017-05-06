@@ -1,20 +1,21 @@
 {
-  "name": "nycpokespawn-filtered",
-  "description": "A daemon that will filter @nycpokespawn to specific areas and Pokémon, and text you about it",
+  "name": "unownbot-filtered",
+  "description": "A daemon that will filter @UnownBot to specific areas, and text you about it",
   "keywords": [
     "pokemon",
     "pokemon go",
     "twitter",
-    "new york city"
+    "unown",
+    "unownbot"
   ],
-  "version": "1.2.0",
-  "author": "Domenic Denicola <d@domenic.me> (https://domenic.me/)",
+  "version": "1.0",
+  "author": "Domenic Denicola <d@domenic.me> (https://domenic.me/), Ben Weiss <ben@benweiss.com>",
   "license": "WTFPL",
-  "repository": "domenic/nycpokespawn-filtered",
-  "main": "lib/nycpokespawn-filtered.js",
+  "repository": "benweiss/unownbot-filtered",
+  "main": "lib/unownbot-filtered.js",
   "bin": {
-    "nycpokespawn-filtered": "bin/daemon.js",
-    "nycpokespawn-filtered-test": "scripts/run-on-test-data.js"
+    "unownbot-filtered": "bin/daemon.js",
+    "unownbot-filtered-test": "scripts/run-on-test-data.js"
   },
   "files": [
     "lib/",

@@ -1,23 +1,39 @@
 "use strict";
-const test = require("ava");
-const distance = require("../lib/distance.js");
+const https = require("https");
+const { parse: parseURL } = require("url");
+const haversine = require("haversine");
 
-test("followRedirects follows a Google maps shortened URL appropriately", t => {
-  return distance.followRedirects("https://goo.gl/LhphUu").then(finalURL => {
-    t.is(finalURL, "https://www.google.com/maps/place/40.8053786841,-73.9689989085/?dg=dbrw&newdg=1");
+exports.followRedirects = function followRedirects(url) {
+  return new Promise((resolve, reject) => {
+    const request = https.get(url, res => {
+      request.abort();
+
+      if (res.headers.location) {
+        resolve(followRedirects(res.headers.location));
+      } else {
+        resolve(url);
+      }
+    })
+    .on("error", reject);
   });
-});
+};
 
-test("positionFromURL parses Google Maps URLs appropriate the appropriate answer", t => {
-  const position = distance.positionFromURL(
-    "https://www.google.com/maps/place/40.8053786841,-73.9689989085/?dg=dbrw&newdg=1"
-  );
+// Extracts { latitude, longitude } from URLs of the form
+// https://www.google.com/maps/place/40.8053786841,-73.9689989085/?dg=dbrw&newdg=1
+//
+// https://pogoapi.co/x/#33.60107,130.38025
+exports.positionFromURL = url => {
+  const { pathname } = parseURL(url);
+  //const [, latitudeString, longitudeString] = /^\/maps\/place\/([^,]+),([^/]+)\//.exec(pathname);
+  const [, latitudeString, longitudeString] = /^\/x\/#([^,]+),([^/]+).exec(pathname);
 
-  t.deepEqual(position, { latitude: 40.8053786841, longitude: -73.9689989085 });
-});
+  return { latitude: Number(latitudeString), longitude: Number(longitudeString) };
+};
 
-test("distanceToShortenedURL gives the correct answer", t => {
-  return distance.distanceToShortenedURL({ latitude: 40.80, longitude: -73.96 }, "https://goo.gl/LhphUu").then(dist => {
-    t.is(dist, 0.9651027009170235);
+exports.distanceToShortenedURL = (startingPosition, shortenedURL) => {
+  return exports.followRedirects(shortenedURL).then(finalURL => {
+    const finalPosition = exports.positionFromURL(finalURL);
+
+    return haversine(startingPosition, finalPosition);
   });
-});
+};

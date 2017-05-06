@@ -1,6 +1,6 @@
 # @nycpokespawn, filtered
 
-This program is designed to give you a filtered view of the [@nycpokespawn](https://twitter.com/nycpokespawn) Twitter account. It **filters by Pokémon** (so you can avoid getting notified about ones you already have) **and by distance to a set of locations** (so you can be notified only about Pokémon that spawn near locations you usually hang out at).
+This program is designed to give you a filtered view of the [@UnownBot](https://twitter.com/UnownBot) Twitter account. It **filters by distance to a set of locations** (so you can be notified only about Unowns that spawn near locations you usually hang out at).
 
 ![Screenshot of text messages sent](screenshot.png)
 
@@ -13,16 +13,16 @@ This program is written in [Node.js](https://nodejs.org/), which you'll need to 
 Once you have Node.js installed, you'll need to open a terminal ([Mac documentation](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line), [Windows documentation](http://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/)). Then install the program by typing
 
 ```
-npm install -g nycpokespawn-filtered
+npm install -g unownbot-filtered
 ```
 
 This will take a while as it downloads this program from the internet. Once it's done, try to run it, by typing:
 
 ```
-nycpokespawn-filtered
+unownbot-filtered
 ```
 
-This will error, telling you that you need to set up the config file. Follow those instructions, using the below section for guidance. Once you've done all that, you can type `nycpokespawn-filtered` in the console again, and this time it should work!
+This will error, telling you that you need to set up the config file. Follow those instructions, using the below section for guidance. Once you've done all that, you can type `unownbot-filtered` in the console again, and this time it should work!
 
 ### Configuring the program
 
@@ -44,14 +44,13 @@ This will error, telling you that you need to set up the config file. Follow tho
   - Maybe you'll get 15 minutes warning in the best case, so a conservative radius that shouldn't miss many pokes is 3 km.
   - In practice I've found that 1.5 km is more realistic as a max of how far I'm willing to jog, but it's worth expanding that in an area where you might walk around a lot during the day.
 - Pare down the list of Pokémon you want to search for based on your Pokédex.
-  - Note that @nycpokespawn does not Tweet all the Pokémon 😕. So some of the Pokémon in the list will likely never matter.
 
 ## Testing
 
 You can test the program after installing it by running
 
 ```
-nycpokespawn-filtered-test
+unownbot-filtered-test
 ```
 
 which will use the test data stored in this repository's `test/fixtures/tweets.json` file to run through the normal program, log what's going on, and text you if appropriate. This can be used to ensure you did the setup correctly.
@@ -61,7 +60,7 @@ which will use the test data stored in this repository's `test/fixtures/tweets.j
 Once setup is complete, do
 
 ```
-nycpokespawn-filtered
+unownbot-filtered
 ```
 
 to start the program. It will run forever, logging output for your information, and texting when appropriate.
@@ -69,7 +68,7 @@ to start the program. It will run forever, logging output for your information, 
 You could leave this running on your computer, if it doesn't turn off often, or maybe you could get a cloud provider like EC2. If you're on a Linux system and want to run things in the background, you can use the command
 
 ```
-nohup nycpokespawn-filtered my-config.json >my-log.txt &
+nohup unownbot-filtered my-config.json >my-log.txt &
 ```
 
 ## Running multiple instances
@@ -81,7 +80,7 @@ To do that, copy `config.sample.json` to multiple files, e.g. `config-alice.json
 Once you have the configs set up, run the program passing each config file. For example, to run an instance for Alice, do
 
 ```
-nycpokespawn-filtered config-alice.json
+unownbot-filtered config-alice.json
 ```
 
 ## Running as a web server (experimental)
@@ -99,7 +98,3 @@ to start a server which will act the same as the daemon, but visiting it will di
 - If you have overlapping zones, only text about one of them
 - Add walking or cab times to the messages
 - Add a simple web UI that would allow you to update the locations list on the go (so e.g. if you're spending a day in Central Park you can add it from your phone)
-- Re-do the project to be based on direct Pokémon Go API access, using hundreds of accounts spread throughout the city, instead of using the @nycpokespawn Twitter stream
-  - This would allow us to get notified about Pokémon that @nycpokespawn doesn't care about, such as Lickitung or Magmar
-  - [This Node.js chatbot code](https://github.com/hlfshell/pokemon-go-slackbot/blob/master/chatbot.js) looks fairly simple
-  - And with [PTC-Creator](https://www.npmjs.com/package/PTC-Creator) we can create hundreds of accounts fairly easily
