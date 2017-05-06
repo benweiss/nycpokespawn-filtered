@@ -4,7 +4,7 @@
 const fs = require("then-fs");
 const koa = require("koa");
 const config = require("../config.json");
-const nycpokespawnFiltered = require("..");
+const unownbotFiltered = require("..");
 const createTweetStream = require("../lib/twitter.js");
 const createLogger = require("../lib/logger.js");
 
@@ -18,7 +18,7 @@ const logger = createLogger({
 });
 
 const tweetStream = createTweetStream(config.twitter, config.accountIDToFollow);
-nycpokespawnFiltered(tweetStream, logger, config);
+unownbotFiltered(tweetStream, logger, config);
 
 const app = koa();
 
