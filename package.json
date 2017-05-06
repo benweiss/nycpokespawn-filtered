@@ -8,8 +8,8 @@
     "unown",
     "unownbot"
   ],
-  "version": "1.0",
-  "author": "Domenic Denicola <d@domenic.me> (https://domenic.me/), Ben Weiss <ben@benweiss.com>",
+  "version": "1.0.0",
+  "author": "Ben Weiss <ben@benweiss.com>, Domenic Denicola <d@domenic.me> (https://domenic.me/)",
   "license": "WTFPL",
   "repository": "benweiss/unownbot-filtered",
   "main": "lib/unownbot-filtered.js",
