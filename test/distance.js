@@ -25,7 +25,7 @@ exports.followRedirects = function followRedirects(url) {
 exports.positionFromURL = url => {
   const { pathname } = parseURL(url);
   //const [, latitudeString, longitudeString] = /^\/maps\/place\/([^,]+),([^/]+)\//.exec(pathname);
-  const [, latitudeString, longitudeString] = /^\/x\/#([^,]+),([^/]+).exec(pathname);
+  const [, latitudeString, longitudeString] = /^\/x\/#([^,]+),([^/]+)\//.exec(pathname);
 
   return { latitude: Number(latitudeString), longitude: Number(longitudeString) };
 };
