@@ -19,18 +19,25 @@ exports.followRedirects = function followRedirects(url) {
 };
 
 // Extracts { latitude, longitude } from URLs of the form
+// https://pogoapi.co/x/#33.60107,130.38025
+//
+// (original:)
 // https://www.google.com/maps/place/40.8053786841,-73.9689989085/?dg=dbrw&newdg=1
 //
-// https://pogoapi.co/x/#33.60107,130.38025
+
 exports.positionFromURL = url => {
   const { pathname } = parseURL(url);
-  //const [, latitudeString, longitudeString] = /^\/maps\/place\/([^,]+),([^/]+)\//.exec(pathname);
+ 
   const [, latitudeString, longitudeString] = /^\/x\/#([^,]+),([^/]+)\//.exec(pathname);
+  
+  // original:
+  //const [, latitudeString, longitudeString] = /^\/maps\/place\/([^,]+),([^/]+)\//.exec(pathname);
 
   return { latitude: Number(latitudeString), longitude: Number(longitudeString) };
 };
 
 exports.distanceToShortenedURL = (startingPosition, shortenedURL) => {
+  console.log(shortenedURL);
   return exports.followRedirects(shortenedURL).then(finalURL => {
     const finalPosition = exports.positionFromURL(finalURL);
 
