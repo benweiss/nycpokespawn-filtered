@@ -19,7 +19,7 @@ module.exports = (tweetStream, accountIDToFollow, locations) => {
     
     console.log("Tweet data begin");
                  
-    console.log(JSON.stringify(data, undefined, 2)); // $$$
+    console.log(JSON.stringify(tweet, undefined, 2)); // $$$
     console.log("Tweet data end");
 
     let data;
