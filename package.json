@@ -33,7 +33,7 @@
     "koa": "^1.2.2",
     "then-fs": "^2.0.0",
     "twilio": "^2.10.0",
-    "twit": "^2.2.4"
+    "twit": "^2.2.5"
   },
   "devDependencies": {
     "ava": "0.16.0",

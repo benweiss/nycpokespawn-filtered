@@ -1,455 +1,35 @@
 [
   {
-    "created_at": "Mon Sep 05 22:58:27 +0000 2016",
-    "id": 772931931214221300,
-    "id_str": "772931931214221312",
-    "text": "RT @domenic: nycpokespawn-filtered, a daemon that will text you when @nycpokespawn has something good: https://t.co/JEVSwwNckf https://t.co…",
+    "created_at": "Sun May 07 05:10:38 +0000 2017",
+    "id": 861085845645926400,
+    "id_str": "861085845645926401",
+    "text": "Unown (IV: -, TTL: 29m 22s) [Denver, Colorado, US]: https://t.co/4MXtGoG9p5",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "domenic",
-          "name": "Domenic Denicola",
-          "id": 30968081,
-          "id_str": "30968081",
-          "indices": [
-            3,
-            11
-          ]
-        },
-        {
-          "screen_name": "nycpokespawn",
-          "name": "NYC Pokémon Tracker",
-          "id": 754728450573930500,
-          "id_str": "754728450573930496",
-          "indices": [
-            69,
-            82
-          ]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/JEVSwwNckf",
-          "expanded_url": "https://github.com/domenic/nycpokespawn-filtered",
-          "display_url": "github.com/domenic/nycpok…",
-          "indices": [
-            103,
-            126
-          ]
-        }
-      ],
-      "media": [
-        {
-          "id": 772930048953356300,
-          "id_str": "772930048953356292",
-          "indices": [
-            139,
-            140
-          ],
-          "media_url": "http://pbs.twimg.com/media/Crn_yMwXEAQmcR7.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Crn_yMwXEAQmcR7.jpg",
-          "url": "https://t.co/6vcN4I62Dx",
-          "display_url": "pic.twitter.com/6vcN4I62Dx",
-          "expanded_url": "https://twitter.com/domenic/status/772931469857751040/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 680,
-              "h": 330,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 583,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1336,
-              "h": 649,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            }
-          },
-          "source_status_id": 772931469857751000,
-          "source_status_id_str": "772931469857751040",
-          "source_user_id": 30968081,
-          "source_user_id_str": "30968081"
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 772930048953356300,
-          "id_str": "772930048953356292",
-          "indices": [
-            139,
-            140
-          ],
-          "media_url": "http://pbs.twimg.com/media/Crn_yMwXEAQmcR7.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Crn_yMwXEAQmcR7.jpg",
-          "url": "https://t.co/6vcN4I62Dx",
-          "display_url": "pic.twitter.com/6vcN4I62Dx",
-          "expanded_url": "https://twitter.com/domenic/status/772931469857751040/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 680,
-              "h": 330,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 583,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1336,
-              "h": 649,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            }
-          },
-          "source_status_id": 772931469857751000,
-          "source_status_id_str": "772931469857751040",
-          "source_user_id": 30968081,
-          "source_user_id_str": "30968081"
-        },
-        {
-          "id": 772931367499866100,
-          "id_str": "772931367499866112",
-          "indices": [
-            139,
-            140
-          ],
-          "media_url": "http://pbs.twimg.com/media/CroA-8uWIAANBYH.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CroA-8uWIAANBYH.jpg",
-          "url": "https://t.co/6vcN4I62Dx",
-          "display_url": "pic.twitter.com/6vcN4I62Dx",
-          "expanded_url": "https://twitter.com/domenic/status/772931469857751040/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 383,
-              "h": 680,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 675,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1080,
-              "h": 1920,
-              "resize": "fit"
-            }
-          },
-          "source_status_id": 772931469857751000,
-          "source_status_id_str": "772931469857751040",
-          "source_user_id": 30968081,
-          "source_user_id_str": "30968081"
-        }
-      ]
-    },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 754728450573930500,
-      "id_str": "754728450573930496"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Sep 05 22:56:37 +0000 2016",
-      "id": 772931469857751000,
-      "id_str": "772931469857751040",
-      "text": "nycpokespawn-filtered, a daemon that will text you when @nycpokespawn has something good: https://t.co/JEVSwwNckf https://t.co/6vcN4I62Dx",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "nycpokespawn",
-            "name": "NYC Pokémon Tracker",
-            "id": 754728450573930500,
-            "id_str": "754728450573930496",
-            "indices": [
-              56,
-              69
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/JEVSwwNckf",
-            "expanded_url": "https://github.com/domenic/nycpokespawn-filtered",
-            "display_url": "github.com/domenic/nycpok…",
-            "indices": [
-              90,
-              113
-            ]
-          }
-        ],
-        "media": [
-          {
-            "id": 772930048953356300,
-            "id_str": "772930048953356292",
-            "indices": [
-              114,
-              137
-            ],
-            "media_url": "http://pbs.twimg.com/media/Crn_yMwXEAQmcR7.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Crn_yMwXEAQmcR7.jpg",
-            "url": "https://t.co/6vcN4I62Dx",
-            "display_url": "pic.twitter.com/6vcN4I62Dx",
-            "expanded_url": "https://twitter.com/domenic/status/772931469857751040/photo/1",
-            "type": "photo",
-            "sizes": {
-              "small": {
-                "w": 680,
-                "h": 330,
-                "resize": "fit"
-              },
-              "medium": {
-                "w": 1200,
-                "h": 583,
-                "resize": "fit"
-              },
-              "large": {
-                "w": 1336,
-                "h": 649,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              }
-            }
-          }
-        ]
-      },
-      "extended_entities": {
-        "media": [
-          {
-            "id": 772930048953356300,
-            "id_str": "772930048953356292",
-            "indices": [
-              114,
-              137
-            ],
-            "media_url": "http://pbs.twimg.com/media/Crn_yMwXEAQmcR7.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/Crn_yMwXEAQmcR7.jpg",
-            "url": "https://t.co/6vcN4I62Dx",
-            "display_url": "pic.twitter.com/6vcN4I62Dx",
-            "expanded_url": "https://twitter.com/domenic/status/772931469857751040/photo/1",
-            "type": "photo",
-            "sizes": {
-              "small": {
-                "w": 680,
-                "h": 330,
-                "resize": "fit"
-              },
-              "medium": {
-                "w": 1200,
-                "h": 583,
-                "resize": "fit"
-              },
-              "large": {
-                "w": 1336,
-                "h": 649,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              }
-            }
-          },
-          {
-            "id": 772931367499866100,
-            "id_str": "772931367499866112",
-            "indices": [
-              114,
-              137
-            ],
-            "media_url": "http://pbs.twimg.com/media/CroA-8uWIAANBYH.jpg",
-            "media_url_https": "https://pbs.twimg.com/media/CroA-8uWIAANBYH.jpg",
-            "url": "https://t.co/6vcN4I62Dx",
-            "display_url": "pic.twitter.com/6vcN4I62Dx",
-            "expanded_url": "https://twitter.com/domenic/status/772931469857751040/photo/1",
-            "type": "photo",
-            "sizes": {
-              "small": {
-                "w": 383,
-                "h": 680,
-                "resize": "fit"
-              },
-              "medium": {
-                "w": 675,
-                "h": 1200,
-                "resize": "fit"
-              },
-              "thumb": {
-                "w": 150,
-                "h": 150,
-                "resize": "crop"
-              },
-              "large": {
-                "w": 1080,
-                "h": 1920,
-                "resize": "fit"
-              }
-            }
-          }
-        ]
-      },
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": 772922876882223100,
-      "in_reply_to_status_id_str": "772922876882223104",
-      "in_reply_to_user_id": 30968081,
-      "in_reply_to_user_id_str": "30968081",
-      "in_reply_to_screen_name": "domenic",
-      "user": {
-        "id": 30968081,
-        "id_str": "30968081"
-      },
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 3,
-      "favorite_count": 8,
-      "favorited": false,
-      "retweeted": false,
-      "possibly_sensitive": false,
-      "lang": "en"
-    },
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Mon Sep 05 22:25:03 +0000 2016",
-    "id": 772923527813009400,
-    "id_str": "772923527813009408",
-    "text": "Gyarados at Hudson River Greenway, 10013 until 6:34:17 PM. #PokemonGo https://t.co/IGgzmuGpyI",
-    "truncated": false,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "PokemonGo",
-          "indices": [
-            59,
-            69
-          ]
-        }
-      ],
-      "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/IGgzmuGpyI",
-          "expanded_url": "https://goo.gl/AEDDUQ",
-          "display_url": "goo.gl/AEDDUQ",
+          "url": "https://t.co/4MXtGoG9p5",
+          "expanded_url": "https://pogoapi.co/x/#39.72050,-105.01588",
+          "display_url": "pogoapi.co/x/#39.72050,-1…",
           "indices": [
-            70,
-            93
+            52,
+            75
           ]
         }
       ]
     },
-    "source": "<a href=\"http://servepeak.com\" rel=\"nofollow\">rare pogo</a>",
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
     "user": {
-      "id": 754728450573930500,
-      "id_str": "754728450573930496"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Mon Sep 05 22:15:49 +0000 2016",
-    "id": 772921202797150200,
-    "id_str": "772921202797150209",
-    "text": "Snorlax at 196 Bradhurst Ave, 10039 until 6:22:41 PM. #PokemonGo https://t.co/53tzQqF10G",
-    "truncated": false,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "PokemonGo",
-          "indices": [
-            54,
-            64
-          ]
-        }
-      ],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/53tzQqF10G",
-          "expanded_url": "https://goo.gl/uXawAK",
-          "display_url": "goo.gl/uXawAK",
-          "indices": [
-            65,
-            88
-          ]
-        }
-      ]
-    },
-    "source": "<a href=\"http://servepeak.com\" rel=\"nofollow\">rare pogo</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 754728450573930500,
-      "id_str": "754728450573930496"
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
     },
     "geo": null,
     "coordinates": null,
@@ -464,356 +44,36 @@
     "lang": "en"
   },
   {
-    "created_at": "Mon Sep 05 22:02:44 +0000 2016",
-    "id": 772917909366661100,
-    "id_str": "772917909366661121",
-    "text": "Kabutops at E River Esplanade, 10016 until 6:17:21 PM. #PokemonGo https://t.co/cPJ58WmVKe",
+    "created_at": "Sun May 07 05:00:31 +0000 2017",
+    "id": 861083300718399500,
+    "id_str": "861083300718399488",
+    "text": "Unown (IV: 48%, TTL: &lt;10m 0s) [Königstädten, Rüsselsheim am Main, Hesse, DE]: https://t.co/mvwm4Esk9d",
     "truncated": false,
     "entities": {
-      "hashtags": [
-        {
-          "text": "PokemonGo",
-          "indices": [
-            55,
-            65
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/cPJ58WmVKe",
-          "expanded_url": "https://goo.gl/YNXmhP",
-          "display_url": "goo.gl/YNXmhP",
+          "url": "https://t.co/mvwm4Esk9d",
+          "expanded_url": "https://pogoapi.co/x/#49.98172,8.43553",
+          "display_url": "pogoapi.co/x/#49.98172,8.…",
           "indices": [
-            66,
-            89
+            81,
+            104
           ]
         }
       ]
     },
-    "source": "<a href=\"http://servepeak.com\" rel=\"nofollow\">rare pogo</a>",
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
     "user": {
-      "id": 754728450573930500,
-      "id_str": "754728450573930496"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "tl"
-  },
-  {
-    "created_at": "Mon Sep 05 21:57:46 +0000 2016",
-    "id": 772916659799658500,
-    "id_str": "772916659799658496",
-    "text": "Vaporeon at 2005 Hudson River Greenway, 10036 until 6:11:07 PM. #PokemonGo https://t.co/VCcTXx4xyv",
-    "truncated": false,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "PokemonGo",
-          "indices": [
-            64,
-            74
-          ]
-        }
-      ],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/VCcTXx4xyv",
-          "expanded_url": "https://goo.gl/u0JnD2",
-          "display_url": "goo.gl/u0JnD2",
-          "indices": [
-            75,
-            98
-          ]
-        }
-      ]
-    },
-    "source": "<a href=\"http://servepeak.com\" rel=\"nofollow\">rare pogo</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 754728450573930500,
-      "id_str": "754728450573930496"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Mon Sep 05 21:56:54 +0000 2016",
-    "id": 772916442232741900,
-    "id_str": "772916442232741888",
-    "text": "Muk at 209 E 125th St, 10035 until 6:05:18 PM. #PokemonGo https://t.co/DGnXarr33P",
-    "truncated": false,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "PokemonGo",
-          "indices": [
-            47,
-            57
-          ]
-        }
-      ],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/DGnXarr33P",
-          "expanded_url": "https://goo.gl/pspLc1",
-          "display_url": "goo.gl/pspLc1",
-          "indices": [
-            58,
-            81
-          ]
-        }
-      ]
-    },
-    "source": "<a href=\"http://servepeak.com\" rel=\"nofollow\">rare pogo</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 754728450573930500,
-      "id_str": "754728450573930496"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Mon Sep 05 21:42:58 +0000 2016",
-    "id": 772912936771784700,
-    "id_str": "772912936771784704",
-    "text": "Nidoking at NY-9A, 10031 until 5:53:15 PM. #PokemonGo https://t.co/KOJiSJX3CP",
-    "truncated": false,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "PokemonGo",
-          "indices": [
-            43,
-            53
-          ]
-        }
-      ],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/KOJiSJX3CP",
-          "expanded_url": "https://goo.gl/3lwLWr",
-          "display_url": "goo.gl/3lwLWr",
-          "indices": [
-            54,
-            77
-          ]
-        }
-      ]
-    },
-    "source": "<a href=\"http://servepeak.com\" rel=\"nofollow\">rare pogo</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 754728450573930500,
-      "id_str": "754728450573930496"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Mon Sep 05 21:29:53 +0000 2016",
-    "id": 772909643802828800,
-    "id_str": "772909643802828800",
-    "text": "Snorlax at 182 Nagle Ave, 10034 until 5:43:15 PM. #PokemonGo https://t.co/oA5ZvhGvPQ",
-    "truncated": false,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "PokemonGo",
-          "indices": [
-            50,
-            60
-          ]
-        }
-      ],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/oA5ZvhGvPQ",
-          "expanded_url": "https://goo.gl/AMrC82",
-          "display_url": "goo.gl/AMrC82",
-          "indices": [
-            61,
-            84
-          ]
-        }
-      ]
-    },
-    "source": "<a href=\"http://servepeak.com\" rel=\"nofollow\">rare pogo</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 754728450573930500,
-      "id_str": "754728450573930496"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Mon Sep 05 20:51:11 +0000 2016",
-    "id": 772899902200410100,
-    "id_str": "772899902200410112",
-    "text": "Snorlax at Baruch Dr, 10009 until 5:05:21 PM. #PokemonGo https://t.co/a4KMs17ywi",
-    "truncated": false,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "PokemonGo",
-          "indices": [
-            46,
-            56
-          ]
-        }
-      ],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/a4KMs17ywi",
-          "expanded_url": "https://goo.gl/JL0PoL",
-          "display_url": "goo.gl/JL0PoL",
-          "indices": [
-            57,
-            80
-          ]
-        }
-      ]
-    },
-    "source": "<a href=\"http://servepeak.com\" rel=\"nofollow\">rare pogo</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 754728450573930500,
-      "id_str": "754728450573930496"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Mon Sep 05 20:19:29 +0000 2016",
-    "id": 772891927075315700,
-    "id_str": "772891927075315713",
-    "text": "Nidoking at 533 W 59th St, 10019 until 4:27:54 PM. #PokemonGo https://t.co/khK6k5A5qL",
-    "truncated": false,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "PokemonGo",
-          "indices": [
-            51,
-            61
-          ]
-        }
-      ],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/khK6k5A5qL",
-          "expanded_url": "https://goo.gl/tLISui",
-          "display_url": "goo.gl/tLISui",
-          "indices": [
-            62,
-            85
-          ]
-        }
-      ]
-    },
-    "source": "<a href=\"http://servepeak.com\" rel=\"nofollow\">rare pogo</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 754728450573930500,
-      "id_str": "754728450573930496"
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
     },
     "geo": null,
     "coordinates": null,
@@ -825,47 +85,39 @@
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "en"
+    "lang": "de"
   },
   {
-    "created_at": "Mon Sep 05 20:16:37 +0000 2016",
-    "id": 772891205235597300,
-    "id_str": "772891205235597312",
-    "text": "Snorlax at 50 W 77th St, 10024 until 4:24:59 PM. #PokemonGo https://t.co/UpBJhz5g5l",
+    "created_at": "Sun May 07 04:47:05 +0000 2017",
+    "id": 861079917890601000,
+    "id_str": "861079917890600965",
+    "text": "Unown (C) (IV: 37%, TTL: &lt;10m 0s) [Ahuntsic-Cartierville, Montreal, Quebec, CA]: https://t.co/oqowXo8Cyb",
     "truncated": false,
     "entities": {
-      "hashtags": [
-        {
-          "text": "PokemonGo",
-          "indices": [
-            49,
-            59
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/UpBJhz5g5l",
-          "expanded_url": "https://goo.gl/H226wn",
-          "display_url": "goo.gl/H226wn",
+          "url": "https://t.co/oqowXo8Cyb",
+          "expanded_url": "https://pogoapi.co/x/#45.52682,-73.67147",
+          "display_url": "pogoapi.co/x/#45.52682,-7…",
           "indices": [
-            60,
-            83
+            84,
+            107
           ]
         }
       ]
     },
-    "source": "<a href=\"http://servepeak.com\" rel=\"nofollow\">rare pogo</a>",
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
     "user": {
-      "id": 754728450573930500,
-      "id_str": "754728450573930496"
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
     },
     "geo": null,
     "coordinates": null,
@@ -880,44 +132,36 @@
     "lang": "en"
   },
   {
-    "created_at": "Mon Sep 05 19:57:01 +0000 2016",
-    "id": 772886271307968500,
-    "id_str": "772886271307968512",
-    "text": "Nidoking at 38-78 Broadway, 10032 until 4:05:23 PM. #PokemonGo https://t.co/XeckcgsCAt",
+    "created_at": "Sun May 07 04:18:03 +0000 2017",
+    "id": 861072613875081200,
+    "id_str": "861072613875081216",
+    "text": "Unown (V) (IV: 44%, TTL: &lt;10m 0s) [Philadelphia, Pennsylvania, US]: https://t.co/MVzwPYbjsG",
     "truncated": false,
     "entities": {
-      "hashtags": [
-        {
-          "text": "PokemonGo",
-          "indices": [
-            52,
-            62
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/XeckcgsCAt",
-          "expanded_url": "https://goo.gl/ANE6ji",
-          "display_url": "goo.gl/ANE6ji",
+          "url": "https://t.co/MVzwPYbjsG",
+          "expanded_url": "https://pogoapi.co/x/#39.90693,-75.13616",
+          "display_url": "pogoapi.co/x/#39.90693,-7…",
           "indices": [
-            63,
-            86
+            71,
+            94
           ]
         }
       ]
     },
-    "source": "<a href=\"http://servepeak.com\" rel=\"nofollow\">rare pogo</a>",
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
     "user": {
-      "id": 754728450573930500,
-      "id_str": "754728450573930496"
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
     },
     "geo": null,
     "coordinates": null,
@@ -929,31 +173,375 @@
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "en"
+    "lang": "cy"
   },
   {
-    "created_at": "Mon Sep 05 19:43:25 +0000 2016",
-    "id": 772882851150852100,
-    "id_str": "772882851150852096",
-    "text": "Dragonite at 380 Riverside Dr, 10025 until 3:56:05 PM. #PokemonGo https://t.co/KSxFnmIdbp",
+    "created_at": "Sun May 07 03:23:27 +0000 2017",
+    "id": 861058873737834500,
+    "id_str": "861058873737834496",
+    "text": "Unown (IV: 58%, TTL: &lt;10m 0s): https://t.co/ZVdvnnrUyq",
     "truncated": false,
     "entities": {
-      "hashtags": [
-        {
-          "text": "PokemonGo",
-          "indices": [
-            55,
-            65
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/KSxFnmIdbp",
-          "expanded_url": "https://goo.gl/LhphUu",
-          "display_url": "goo.gl/LhphUu",
+          "url": "https://t.co/ZVdvnnrUyq",
+          "expanded_url": "https://pogoapi.co/x/#22.36265,114.04996",
+          "display_url": "pogoapi.co/x/#22.36265,11…",
+          "indices": [
+            34,
+            57
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun May 07 03:11:43 +0000 2017",
+    "id": 861055919597269000,
+    "id_str": "861055919597268993",
+    "text": "Unown (IV: 68%, TTL: &lt;10m 0s) [Ameixoeira, Lisbon, Área Metropolitana de Lisboa, PT]: https://t.co/fOCCdzfZmX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/fOCCdzfZmX",
+          "expanded_url": "https://pogoapi.co/x/#38.77825,-9.15647",
+          "display_url": "pogoapi.co/x/#38.77825,-9…",
+          "indices": [
+            89,
+            112
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+  },
+  {
+    "created_at": "Sun May 07 03:11:07 +0000 2017",
+    "id": 861055768107388900,
+    "id_str": "861055768107388928",
+    "text": "Unown (K) (IV: 33%, TTL: &lt;10m 0s) [Chicago, Illinois, US]: https://t.co/gaGzLLFLjm",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/gaGzLLFLjm",
+          "expanded_url": "https://pogoapi.co/x/#41.79195,-87.60672",
+          "display_url": "pogoapi.co/x/#41.79195,-8…",
+          "indices": [
+            62,
+            85
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun May 07 02:41:51 +0000 2017",
+    "id": 861048401688973300,
+    "id_str": "861048401688973313",
+    "text": "Unown (IV: 46%, TTL: &lt;10m 0s) [Baak, Hattingen, North Rhine-Westphalia, DE]: https://t.co/ijpx9u4SXj",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ijpx9u4SXj",
+          "expanded_url": "https://pogoapi.co/x/#51.40435,7.17682",
+          "display_url": "pogoapi.co/x/#51.40435,7.…",
+          "indices": [
+            80,
+            103
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun May 07 01:33:17 +0000 2017",
+    "id": 861031146506924000,
+    "id_str": "861031146506924032",
+    "text": "Unown (IV: 39%, TTL: &lt;10m 0s) [Ladenburg, Baden-Württemberg, DE]: https://t.co/DAIJtWMx9K",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/DAIJtWMx9K",
+          "expanded_url": "https://pogoapi.co/x/#49.46292,8.60882",
+          "display_url": "pogoapi.co/x/#49.46292,8.…",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "de"
+  },
+  {
+    "created_at": "Sun May 07 01:00:36 +0000 2017",
+    "id": 861022922441412600,
+    "id_str": "861022922441412608",
+    "text": "Unown (IV: 47%, TTL: &lt;10m 0s) [Molfetta, Apulia, IT]: https://t.co/r2PFWWgfgz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/r2PFWWgfgz",
+          "expanded_url": "https://pogoapi.co/x/#41.20210,16.58958",
+          "display_url": "pogoapi.co/x/#41.20210,16…",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "it"
+  },
+  {
+    "created_at": "Sun May 07 00:53:06 +0000 2017",
+    "id": 861021033960271900,
+    "id_str": "861021033960271872",
+    "text": "Unown (D) (IV: 53%, TTL: &lt;10m 0s) [Toronto, Ontario, CA]: https://t.co/U0yMpuw1KW",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/U0yMpuw1KW",
+          "expanded_url": "https://pogoapi.co/x/#43.80029,-79.21449",
+          "display_url": "pogoapi.co/x/#43.80029,-7…",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun May 07 00:47:04 +0000 2017",
+    "id": 861019516410712000,
+    "id_str": "861019516410712064",
+    "text": "Unown (D) (IV: 57%, TTL: &lt;10m 0s) [Allston, Boston, Massachusetts, US]: https://t.co/r9XfWwZZCM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/r9XfWwZZCM",
+          "expanded_url": "https://pogoapi.co/x/#42.35939,-71.12559",
+          "display_url": "pogoapi.co/x/#42.35939,-7…",
+          "indices": [
+            75,
+            98
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun May 07 00:23:07 +0000 2017",
+    "id": 861013489980256300,
+    "id_str": "861013489980256256",
+    "text": "Unown (IV: -, TTL: &lt;10m 0s) [Tsurumi, Yokohama, Kanagawa, JP]: https://t.co/dk6QnHESqo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/dk6QnHESqo",
+          "expanded_url": "https://pogoapi.co/x/#35.52038,139.67020",
+          "display_url": "pogoapi.co/x/#35.52038,13…",
           "indices": [
             66,
             89
@@ -961,15 +549,59 @@
         }
       ]
     },
-    "source": "<a href=\"http://servepeak.com\" rel=\"nofollow\">rare pogo</a>",
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
     "user": {
-      "id": 754728450573930500,
-      "id_str": "754728450573930496"
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "in"
+  },
+  {
+    "created_at": "Sun May 07 00:04:05 +0000 2017",
+    "id": 861008698860339200,
+    "id_str": "861008698860339200",
+    "text": "Unown (P) (IV: 22%, TTL: &lt;10m 0s) [Taylors Hill, Victoria, AU]: https://t.co/kFxKkIMEfv",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/kFxKkIMEfv",
+          "expanded_url": "https://pogoapi.co/x/#-37.72251,144.74348",
+          "display_url": "pogoapi.co/x/#-37.72251,1…",
+          "indices": [
+            67,
+            90
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
     },
     "geo": null,
     "coordinates": null,
@@ -977,51 +609,43 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 0,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
     "lang": "en"
   },
   {
-    "created_at": "Mon Sep 05 19:38:42 +0000 2016",
-    "id": 772881664448073700,
-    "id_str": "772881664448073729",
-    "text": "Dragonite at 641 W 138th St, 10031 until 3:47:48 PM. #PokemonGo https://t.co/DfzeG3RgGJ",
+    "created_at": "Sat May 06 23:56:35 +0000 2017",
+    "id": 861006813235433500,
+    "id_str": "861006813235433472",
+    "text": "Unown (IV: 54%, TTL: &lt;10m 0s) [Royal Palms, Hong Kong, CN]: https://t.co/Rj0tNGzTG9",
     "truncated": false,
     "entities": {
-      "hashtags": [
-        {
-          "text": "PokemonGo",
-          "indices": [
-            53,
-            63
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/DfzeG3RgGJ",
-          "expanded_url": "https://goo.gl/wMJ7Wg",
-          "display_url": "goo.gl/wMJ7Wg",
+          "url": "https://t.co/Rj0tNGzTG9",
+          "expanded_url": "https://pogoapi.co/x/#22.48694,114.07291",
+          "display_url": "pogoapi.co/x/#22.48694,11…",
           "indices": [
-            64,
-            87
+            63,
+            86
           ]
         }
       ]
     },
-    "source": "<a href=\"http://servepeak.com\" rel=\"nofollow\">rare pogo</a>",
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
     "user": {
-      "id": 754728450573930500,
-      "id_str": "754728450573930496"
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
     },
     "geo": null,
     "coordinates": null,
@@ -1029,51 +653,87 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 1,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
     "lang": "en"
   },
   {
-    "created_at": "Mon Sep 05 19:19:36 +0000 2016",
-    "id": 772876855636549600,
-    "id_str": "772876855636549632",
-    "text": "Venusaur at 5-7 Bleecker St, 10012 until 3:27:50 PM. #PokemonGo https://t.co/LOmSpfI9SQ",
+    "created_at": "Sat May 06 23:36:02 +0000 2017",
+    "id": 861001641331392500,
+    "id_str": "861001641331392512",
+    "text": "Unown (H) (IV: 35%, TTL: &lt;10m 0s) [Downtown Eastside, Vancouver, British Columbia, CA]: https://t.co/6C8YA2UNZ6",
     "truncated": false,
     "entities": {
-      "hashtags": [
-        {
-          "text": "PokemonGo",
-          "indices": [
-            53,
-            63
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/LOmSpfI9SQ",
-          "expanded_url": "https://goo.gl/z73XM5",
-          "display_url": "goo.gl/z73XM5",
+          "url": "https://t.co/6C8YA2UNZ6",
+          "expanded_url": "https://pogoapi.co/x/#49.28600,-123.09858",
+          "display_url": "pogoapi.co/x/#49.28600,-1…",
           "indices": [
-            64,
-            87
+            91,
+            114
           ]
         }
       ]
     },
-    "source": "<a href=\"http://servepeak.com\" rel=\"nofollow\">rare pogo</a>",
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
     "user": {
-      "id": 754728450573930500,
-      "id_str": "754728450573930496"
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat May 06 23:19:15 +0000 2017",
+    "id": 860997417541521400,
+    "id_str": "860997417541521408",
+    "text": "Unown (IV: 88%, TTL: &lt;10m 0s) [Alt-Siegen, Siegen, North Rhine-Westphalia, DE]: https://t.co/gLATY2LCNh",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/gLATY2LCNh",
+          "expanded_url": "https://pogoapi.co/x/#50.86475,7.99081",
+          "display_url": "pogoapi.co/x/#50.86475,7.…",
+          "indices": [
+            83,
+            106
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
     },
     "geo": null,
     "coordinates": null,
@@ -1081,51 +741,43 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "en"
+    "lang": "de"
   },
   {
-    "created_at": "Mon Sep 05 19:18:44 +0000 2016",
-    "id": 772876639466381300,
-    "id_str": "772876639466381312",
-    "text": "Gengar at 37 Riverside Dr, 10023 until 3:31:47 PM. #PokemonGo https://t.co/V3sSzEDUzj",
+    "created_at": "Sat May 06 23:16:04 +0000 2017",
+    "id": 860996614126805000,
+    "id_str": "860996614126804994",
+    "text": "Unown (IV: 82%, TTL: &lt;10m 0s) [Hacklberg, Passau, Bavaria, DE]: https://t.co/JtwqQ748ys",
     "truncated": false,
     "entities": {
-      "hashtags": [
-        {
-          "text": "PokemonGo",
-          "indices": [
-            51,
-            61
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/V3sSzEDUzj",
-          "expanded_url": "https://goo.gl/ncGGV6",
-          "display_url": "goo.gl/ncGGV6",
+          "url": "https://t.co/JtwqQ748ys",
+          "expanded_url": "https://pogoapi.co/x/#48.58026,13.43361",
+          "display_url": "pogoapi.co/x/#48.58026,13…",
           "indices": [
-            62,
-            85
+            67,
+            90
           ]
         }
       ]
     },
-    "source": "<a href=\"http://servepeak.com\" rel=\"nofollow\">rare pogo</a>",
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
     "user": {
-      "id": 754728450573930500,
-      "id_str": "754728450573930496"
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
     },
     "geo": null,
     "coordinates": null,
@@ -1133,51 +785,43 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "en"
+    "lang": "ro"
   },
   {
-    "created_at": "Mon Sep 05 19:14:52 +0000 2016",
-    "id": 772875664051449900,
-    "id_str": "772875664051449857",
-    "text": "Ninetales at 23 W 52nd St, 10019 until 3:23:12 PM. #PokemonGo https://t.co/kr6q188ElQ",
+    "created_at": "Sat May 06 22:39:47 +0000 2017",
+    "id": 860987484414644200,
+    "id_str": "860987484414644225",
+    "text": "Unown (IV: 94%, TTL: &lt;10m 0s) [Brünninghausen, Dortmund, North Rhine-Westphalia, DE]: https://t.co/tBpgSjAoNj",
     "truncated": false,
     "entities": {
-      "hashtags": [
-        {
-          "text": "PokemonGo",
-          "indices": [
-            51,
-            61
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/kr6q188ElQ",
-          "expanded_url": "https://goo.gl/5qmKSc",
-          "display_url": "goo.gl/5qmKSc",
+          "url": "https://t.co/tBpgSjAoNj",
+          "expanded_url": "https://pogoapi.co/x/#51.49205,7.47412",
+          "display_url": "pogoapi.co/x/#51.49205,7.…",
           "indices": [
-            62,
-            85
+            89,
+            112
           ]
         }
       ]
     },
-    "source": "<a href=\"http://servepeak.com\" rel=\"nofollow\">rare pogo</a>",
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
     "user": {
-      "id": 754728450573930500,
-      "id_str": "754728450573930496"
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
     },
     "geo": null,
     "coordinates": null,
@@ -1185,51 +829,43 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "en"
+    "lang": "de"
   },
   {
-    "created_at": "Mon Sep 05 19:10:29 +0000 2016",
-    "id": 772874562983854100,
-    "id_str": "772874562983854080",
-    "text": "Chansey at 785 Washington St, 10014 until 3:18:56 PM. #PokemonGo https://t.co/KvNYluEqiu",
+    "created_at": "Sat May 06 22:02:27 +0000 2017",
+    "id": 860978089324683300,
+    "id_str": "860978089324683265",
+    "text": "Unown (IV: 46%, TTL: &lt;10m 0s) [Funabashi, Setagaya, Tokyo, JP]: https://t.co/d2xALliCuB",
     "truncated": false,
     "entities": {
-      "hashtags": [
-        {
-          "text": "PokemonGo",
-          "indices": [
-            54,
-            64
-          ]
-        }
-      ],
+      "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/KvNYluEqiu",
-          "expanded_url": "https://goo.gl/ESBTdd",
-          "display_url": "goo.gl/ESBTdd",
+          "url": "https://t.co/d2xALliCuB",
+          "expanded_url": "https://pogoapi.co/x/#35.65935,139.64916",
+          "display_url": "pogoapi.co/x/#35.65935,13…",
           "indices": [
-            65,
-            88
+            67,
+            90
           ]
         }
       ]
     },
-    "source": "<a href=\"http://servepeak.com\" rel=\"nofollow\">rare pogo</a>",
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
     "user": {
-      "id": 754728450573930500,
-      "id_str": "754728450573930496"
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
     },
     "geo": null,
     "coordinates": null,
@@ -1237,114 +873,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Mon Sep 05 19:05:06 +0000 2016",
-    "id": 772873208030650400,
-    "id_str": "772873208030650368",
-    "text": "Venusaur at 4 E 67th St, 10065 until 3:13:34 PM. #PokemonGo https://t.co/StQi6lfT0M",
-    "truncated": false,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "PokemonGo",
-          "indices": [
-            49,
-            59
-          ]
-        }
-      ],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/StQi6lfT0M",
-          "expanded_url": "https://goo.gl/UI2yms",
-          "display_url": "goo.gl/UI2yms",
-          "indices": [
-            60,
-            83
-          ]
-        }
-      ]
-    },
-    "source": "<a href=\"http://servepeak.com\" rel=\"nofollow\">rare pogo</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 754728450573930500,
-      "id_str": "754728450573930496"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
-  },
-  {
-    "created_at": "Mon Sep 05 19:02:54 +0000 2016",
-    "id": 772872654609080300,
-    "id_str": "772872654609080320",
-    "text": "Venusaur at 321 E 96th St, 10128 until 3:11:20 PM. #PokemonGo https://t.co/jy2niVyTrA",
-    "truncated": false,
-    "entities": {
-      "hashtags": [
-        {
-          "text": "PokemonGo",
-          "indices": [
-            51,
-            61
-          ]
-        }
-      ],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/jy2niVyTrA",
-          "expanded_url": "https://goo.gl/myGVxx",
-          "display_url": "goo.gl/myGVxx",
-          "indices": [
-            62,
-            85
-          ]
-        }
-      ]
-    },
-    "source": "<a href=\"http://servepeak.com\" rel=\"nofollow\">rare pogo</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
-    "user": {
-      "id": 754728450573930500,
-      "id_str": "754728450573930496"
-    },
-    "geo": null,
-    "coordinates": null,
-    "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
-    "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "en"
+    "lang": "in"
   }
 ]
