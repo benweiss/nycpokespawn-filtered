@@ -174,5 +174,49 @@
     "retweeted": false,
     "possibly_sensitive": false,
     "lang": "en"
-  }
+  },
+ {
+ "created_at": "Sun May 07 23:36:02 +0000 2017",
+ "id": 861001641331392500,
+ "id_str": "861001641331392512",
+ "text": "Unown (B) (IV: 100%, TTL: 30m 0s) [Rincon Point, California, US]: https://t.co/6C8YA2UNZ6",
+ "truncated": false,
+ "entities": {
+ "hashtags": [],
+ "symbols": [],
+ "user_mentions": [],
+ "urls": [
+          {
+          "url": "https://t.co/6C8YA2UNZ6",
+          "expanded_url": "https://pogoapi.co/x/#34.372262,-119.478346",
+          "display_url": "pogoapi.co/x/#34.372262,-1…",
+          "indices": [
+                      91,
+                      114
+                      ]
+          }
+          ]
+ },
+ "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+ "in_reply_to_status_id": null,
+ "in_reply_to_status_id_str": null,
+ "in_reply_to_user_id": null,
+ "in_reply_to_user_id_str": null,
+ "in_reply_to_screen_name": null,
+ "user": {
+ "id": 837234225715818500,
+ "id_str": "837234225715818497"
+ },
+ "geo": null,
+ "coordinates": null,
+ "place": null,
+ "contributors": null,
+ "is_quote_status": false,
+ "retweet_count": 1,
+ "favorite_count": 4,
+ "favorited": false,
+ "retweeted": false,
+ "possibly_sensitive": false,
+ "lang": "en"
+ }
 ]
