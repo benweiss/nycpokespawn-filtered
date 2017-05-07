@@ -25,6 +25,9 @@ module.exports = (tweetStream, accountIDToFollow, locations) => {
     let data;
     try {
       data = parseTweet(tweet);
+      console.log("Parsed data:");
+      console.log(JSON.stringify(data, undefined, 2));
+      console.log("Parsed data end");
     } catch (err) {
       emitter.emit("error", new Error(`Could not parse tweet with text '${tweet.text}'`));
       return;
@@ -63,13 +66,15 @@ function parseTweet(tweet) {
     
   console.log(tweet);
     
-  const url = tweet.entities.urls[0];
- 
-  console.log(url);
+  const url = tweet.entities.urls[1]; // expanded URL
     
-  const url_expanded = url.expanded_url;
+  return { url };
+ 
+  //console.log(url);
+    
+  //const url_expanded = url.expanded_url;
   
-  return { url_expanded };
+  //return { url_expanded };
   
   // Original code:
   // Example tweet:
