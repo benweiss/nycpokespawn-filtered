@@ -41,7 +41,7 @@ module.exports = (tweetStream, accountIDToFollow, locations) => {
         // Test: accept all tweets
         //if (distance < location.radius) {
           //const dataWithCloseness = Object.assign({ distance, closeTo: location.label }, data);
-          const dataWithCloseness = Object.assign({ distance, closeTo: location.label }, tweet);
+          const dataWithCloseness = Object.assign({ distance, tweet, closeTo: location.label }, data);
           emitter.emit("spawn within range", dataWithCloseness);
         //}
       })
