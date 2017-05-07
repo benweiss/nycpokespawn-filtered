@@ -1,4 +1,4 @@
-# @nycpokespawn, filtered
+# @UnownBot, filtered
 
 This program is designed to give you a filtered view of the [@UnownBot](https://twitter.com/UnownBot) Twitter account. It **filters by distance to a set of locations** (so you can be notified only about Unowns that spawn near locations you usually hang out at).
 
@@ -38,12 +38,7 @@ This will error, telling you that you need to set up the config file. Follow tho
   - FYI, if you don't pay Twilio, it will prepend "Sent from your Twilio trial account - " to all your messages.
 - Set the phone number to text in `config.json`'s `numberToText` field.
 - Update the locations with whatever locations and radiuses you want to monitor. Radiuses are in kilometers.
-  - Note: copying from the Google Maps URL does not work very well, as the most prominent coordinates are those at the center of your screen. Instead use something like [mapcoordinates.net](http://www.mapcoordinates.net/en).
-  - [According to Wikipedia](https://en.wikipedia.org/wiki/Preferred_walking_speed), average human walking speed is 5.0 km/h with fast walking "upwards of" 9.0 km/h.
-  - So let's say you run at 12 km/h since you're really motivated to catch Pokémon. That's 0.2 km/min.
-  - Maybe you'll get 15 minutes warning in the best case, so a conservative radius that shouldn't miss many pokes is 3 km.
-  - In practice I've found that 1.5 km is more realistic as a max of how far I'm willing to jog, but it's worth expanding that in an area where you might walk around a lot during the day.
-- Pare down the list of Pokémon you want to search for based on your Pokédex.
+  - Unown spawns so infrequently that you probably want to cast a wide net; at least 20km, or you may never even see a spawn. Unown spawns typically last 30min, so if you're driving, a 20km detour should be achievable.
 
 ## Testing
 
