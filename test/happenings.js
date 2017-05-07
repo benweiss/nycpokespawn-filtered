@@ -66,8 +66,8 @@ function parseTweet(tweet) {
     
   console.log(tweet);
     
-  const url = tweet.entities.urls[1]; // expanded URL
-    
+  const url = tweet.entities; // expanded URL
+  
   return { url };
  
   //console.log(url);
