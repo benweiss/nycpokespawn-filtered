@@ -3,7 +3,7 @@
     "created_at": "Sun May 07 05:10:38 +0000 2017",
     "id": 861085845645926400,
     "id_str": "861085845645926401",
-    "text": "Unown (IV: -, TTL: 29m 22s) [Denver, Colorado, US]: https://t.co/4MXtGoG9p5",
+    "text": "TEST: Unown (IV: -, TTL: 29m 22s) [Denver, Colorado, US]: https://t.co/4MXtGoG9p5",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -15,8 +15,8 @@
           "expanded_url": "https://pogoapi.co/x/#39.72050,-105.01588",
           "display_url": "pogoapi.co/x/#39.72050,-1…",
           "indices": [
-            52,
-            75
+            58,
+            81
           ]
         }
       ]
@@ -47,7 +47,7 @@
     "created_at": "Sun May 07 04:47:05 +0000 2017",
     "id": 861079917890601000,
     "id_str": "861079917890600965",
-    "text": "Unown (C) (IV: 37%, TTL: &lt;10m 0s) [Ahuntsic-Cartierville, Montreal, Quebec, CA]: https://t.co/oqowXo8Cyb",
+    "text": "TEST: Unown (C) (IV: 37%, TTL: &lt;10m 0s) [Ahuntsic-Cartierville, Montreal, Quebec, CA]: https://t.co/oqowXo8Cyb",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -59,8 +59,8 @@
           "expanded_url": "https://pogoapi.co/x/#45.52682,-73.67147",
           "display_url": "pogoapi.co/x/#45.52682,-7…",
           "indices": [
-            84,
-            107
+            90,
+            113
           ]
         }
       ]
@@ -91,7 +91,7 @@
     "created_at": "Sun May 07 00:47:04 +0000 2017",
     "id": 861019516410712000,
     "id_str": "861019516410712064",
-    "text": "Unown (D) (IV: 57%, TTL: &lt;10m 0s) [Allston, Boston, Massachusetts, US]: https://t.co/r9XfWwZZCM",
+    "text": "TEST: Unown (D) (IV: 57%, TTL: &lt;10m 0s) [Allston, Boston, Massachusetts, US]: https://t.co/r9XfWwZZCM",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -103,8 +103,8 @@
           "expanded_url": "https://pogoapi.co/x/#42.35939,-71.12559",
           "display_url": "pogoapi.co/x/#42.35939,-7…",
           "indices": [
-            75,
-            98
+            81,
+            104
           ]
         }
       ]
@@ -135,7 +135,7 @@
     "created_at": "Sat May 06 23:36:02 +0000 2017",
     "id": 861001641331392500,
     "id_str": "861001641331392512",
-    "text": "Unown (H) (IV: 35%, TTL: &lt;10m 0s) [Downtown Eastside, Vancouver, British Columbia, CA]: https://t.co/6C8YA2UNZ6",
+    "text": "TEST: Unown (H) (IV: 35%, TTL: &lt;10m 0s) [Downtown Eastside, Vancouver, British Columbia, CA]: https://t.co/6C8YA2UNZ6",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -147,8 +147,8 @@
           "expanded_url": "https://pogoapi.co/x/#49.28600,-123.09858",
           "display_url": "pogoapi.co/x/#49.28600,-1…",
           "indices": [
-            91,
-            114
+            97,
+            120
           ]
         }
       ]
@@ -179,7 +179,7 @@
  "created_at": "Sun May 07 23:36:02 +0000 2017",
  "id": 861001641331392500,
  "id_str": "861001641331392512",
- "text": "Unown (B) (IV: 100%, TTL: 30m 0s) [Rincon Point, California, US]: https://t.co/6C8YA2UNZ6",
+ "text": "TEST: Unown (B) (IV: 100%, TTL: 30m 0s) [Rincon Point, California, US]: https://t.co/6C8YA2UNZ6",
  "truncated": false,
  "entities": {
  "hashtags": [],
@@ -191,8 +191,8 @@
           "expanded_url": "https://pogoapi.co/x/#34.372262,-119.478346",
           "display_url": "pogoapi.co/x/#34.372262,-1…",
           "indices": [
-                      91,
-                      114
+                      97,
+                      120
                       ]
           }
           ]
