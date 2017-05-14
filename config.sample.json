@@ -21,32 +21,38 @@
 
   "accountIDToFollow": "837234225715818497",
 
-  "numberToText": "+15551112222",
-
   "locations": [
     {
-      "label": "Grand Army Plaza",
-      "latitude": 40.7609104,
-      "longitude": -73.9691941,
+      "label": "Mountain View, CA",
+      "latitude": 37.4220,
+      "longitude": -122.0841,
       "radius": 30,
-      "player": "Joe B",
-      "cell": "+15551113333"
+      "players": [
+                  {
+                  "name": "Joe B",
+                  "cell": "+15551112222"
+                  },
+                  {
+                  "name": "Suzy Q",
+                  "cell": "+15551113333"
+                  }
+                  ]
     },
     {
-      "label": "home",
-      "latitude": 40.7362827,
-      "longitude": -73.9836351,
+      "label": "Seattle, WA",
+      "latitude": 47.6492973,
+      "longitude": -122.3505347,
       "radius": 30,
-      "player": "Jane D",
-      "cell": "+15551114444"
-    },
-    {
-      "label": "work",
-      "latitude": 40.7373466,
-      "longitude": -73.9985517,
-      "radius": 10,
-      "player": "Suzy Q",
-      "cell": "+15551115555"
+      "players": [
+                  {
+                  "name": "Jane D",
+                  "cell": "+15551114444"
+                  },
+                  {
+                  "name": "Arnold S",
+                  "cell": "+15551115555"
+                  }
+                  ]
     }
   ]
 }
