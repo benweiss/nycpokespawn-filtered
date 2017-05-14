@@ -17,17 +17,16 @@ module.exports = (tweetStream, accountIDToFollow, locations) => {
       return;
     }
     
-    console.log("Tweet data begin");
-                 
-    console.log(JSON.stringify(tweet, undefined, 2)); // $$$
-    console.log("Tweet data end");
+    //console.log("Tweet data begin");
+    //console.log(JSON.stringify(tweet, undefined, 2));
+    //console.log("Tweet data end");
 
     let data;
     try {
       data = parseTweet(tweet);
-      console.log("Parsed data:");
-      console.log(JSON.stringify(data, undefined, 2));
-      console.log("Parsed data end");
+      //console.log("Parsed data:");
+      //console.log(JSON.stringify(data, undefined, 2));
+      //console.log("Parsed data end");
     } catch (err) {
       emitter.emit("error", new Error(`Could not parse tweet with text '${tweet.text}'`));
       return;
@@ -39,11 +38,13 @@ module.exports = (tweetStream, accountIDToFollow, locations) => {
     for (const location of locations) {
       distanceToShortenedURL(location, data.url).then(distance => {
         // Test: accept all tweets
-        //if (distance < location.radius) {
-          //const dataWithCloseness = Object.assign({ distance, closeTo: location.label }, data);
-          const dataWithCloseness = Object.assign({ distance, tweet, closeTo: location.label }, data);
+        if (distance < location.radius) {
+          const dataWithCloseness = Object.assign({ distance, tweet, closeTo: location.label, player: location.player, cell: location.numberToText }, data);
           emitter.emit("spawn within range", dataWithCloseness);
-        //}
+        }
+        else {
+          //console.log("spawn out of range");
+        }
       })
       .catch(err => emitter.emit("error", err));
     }
@@ -60,29 +61,11 @@ function parseTweet(tweet) {
   // Example tweet:
   // Unown (K) (IV: 33%, TTL: &lt;10m 0s) [Chicago, Illinois, US]: https://t.co/gaGzLLFLjm
   //
-  // What we care about is the expanded url, which embeds the GPS location, e.g.:
+  // What we want is the expanded url, which embeds the GPS location, e.g.:
   //
   // https://pogoapi.co/x/#41.79195,-87.60672
   
-    
-  //console.log(tweet);
-    
   const url = tweet.entities.urls[0].expanded_url; // expanded URL
   
   return { url };
- 
-  //console.log(url);
-    
-  //const url_expanded = url.expanded_url;
-  
-  //return { url_expanded };
-  
-  // Original code:
-  // Example tweet:
-  // Snorlax at 310 West End Ave, 10023 until 5:09:08 AM. #PokemonGo https://goo.gl/1D1hFz
-  //
-  // const [, pokemon, location, until] = /(.+) at (.+) until (.+). #PokemonGo (.*)/.exec(tweet.text);
-  // const url = tweet.entities.urls[0].expanded_url;
-
-  // return { pokemon, location, until, url };
 }
