@@ -81,11 +81,8 @@ function parseTweet(tweet) {
   const url = "https://pogoapi.co/x/#" + chopped[chopped.length - 1];
     
   return { url };
-
-  //return { coords };
-
-  //const text = tweet.text;
-  //return { text };
+    
+    /* original:
 
   // Example tweet (@UnownBot):
   // Unown (K) (IV: 33%, TTL: &lt;10m 0s) [Chicago, Illinois, US]: https://t.co/gaGzLLFLjm
@@ -97,4 +94,5 @@ function parseTweet(tweet) {
   const url = tweet.entities.urls[0].expanded_url; // expanded URL
 
   return { url };
+     */
 }
