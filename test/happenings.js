@@ -23,13 +23,15 @@ module.exports = (tweetStream, accountIDToFollow, locations) => {
 
     let data;
     try {
-      data = parseTweet(tweet);
+      data = { tweet.text };
       /*
+       data = parseTweet(tweet);
+      
       // Diagnostic
       console.log("Parsed data:");
       console.log(JSON.stringify(data, undefined, 2));
       console.log("Parsed data end");
-       */
+      */
                  
     } catch (err) {
       emitter.emit("error", new Error(`Could not parse tweet with text '${tweet.text}'`));
