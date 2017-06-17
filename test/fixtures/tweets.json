@@ -1,35 +1,25 @@
 [
   {
-    "created_at": "Sun May 07 05:10:38 +0000 2017",
-    "id": 861085845645926400,
-    "id_str": "861085845645926401",
-    "text": "TEST: Unown (IV: -, TTL: 29m 22s) [Denver, Colorado, US]: https://t.co/4MXtGoG9p5",
+    "created_at": "Sat Jun 17 07:28:42 +0000 2017",
+    "id": 875978495633100800,
+    "id_str": "875978495633100801",
+    "text": "**Unown S ** 34.372262,-119.478346",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/4MXtGoG9p5",
-          "expanded_url": "https://pogoapi.co/x/#39.72050,-105.01588",
-          "display_url": "pogoapi.co/x/#39.72050,-1…",
-          "indices": [
-            58,
-            81
-          ]
-        }
-      ]
+      "urls": []
     },
-    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
     "user": {
-      "id": 837234225715818500,
-      "id_str": "837234225715818497"
+      "id": 839966564963287000,
+      "id_str": "839966564963287040"
     },
     "geo": null,
     "coordinates": null,
@@ -40,40 +30,29 @@
     "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "en"
   },
   {
-    "created_at": "Sun May 07 04:47:05 +0000 2017",
-    "id": 861079917890601000,
-    "id_str": "861079917890600965",
-    "text": "TEST: Unown (C) (IV: 37%, TTL: &lt;10m 0s) [Ahuntsic-Cartierville, Montreal, Quebec, CA]: https://t.co/oqowXo8Cyb",
+    "created_at": "Sat Jun 17 07:27:42 +0000 2017",
+    "id": 875978242758496300,
+    "id_str": "875978242758496256",
+    "text": "Unown A ; -33.716871,151.280972",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/oqowXo8Cyb",
-          "expanded_url": "https://pogoapi.co/x/#45.52682,-73.67147",
-          "display_url": "pogoapi.co/x/#45.52682,-7…",
-          "indices": [
-            90,
-            113
-          ]
-        }
-      ]
+      "urls": []
     },
-    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
     "user": {
-      "id": 837234225715818500,
-      "id_str": "837234225715818497"
+      "id": 839966564963287000,
+      "id_str": "839966564963287040"
     },
     "geo": null,
     "coordinates": null,
@@ -84,139 +63,380 @@
     "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "en"
   },
   {
-    "created_at": "Sun May 07 00:47:04 +0000 2017",
-    "id": 861019516410712000,
-    "id_str": "861019516410712064",
-    "text": "TEST: Unown (D) (IV: 57%, TTL: &lt;10m 0s) [Allston, Boston, Massachusetts, US]: https://t.co/r9XfWwZZCM",
+    "created_at": "Sat Jun 17 06:37:03 +0000 2017",
+    "id": 875965495127814100,
+    "id_str": "875965495127814144",
+    "text": "Unown M : 49.363916,-123.205511",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/r9XfWwZZCM",
-          "expanded_url": "https://pogoapi.co/x/#42.35939,-71.12559",
-          "display_url": "pogoapi.co/x/#42.35939,-7…",
-          "indices": [
-            81,
-            104
-          ]
-        }
-      ]
+      "urls": []
     },
-    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
     "user": {
-      "id": 837234225715818500,
-      "id_str": "837234225715818497"
+      "id": 839966564963287000,
+      "id_str": "839966564963287040"
     },
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 4,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "en"
   },
   {
-    "created_at": "Sat May 06 23:36:02 +0000 2017",
-    "id": 861001641331392500,
-    "id_str": "861001641331392512",
-    "text": "TEST: Unown (H) (IV: 35%, TTL: &lt;10m 0s) [Downtown Eastside, Vancouver, British Columbia, CA]: https://t.co/6C8YA2UNZ6",
+    "created_at": "Sat Jun 17 05:42:34 +0000 2017",
+    "id": 875951782815572000,
+    "id_str": "875951782815571968",
+    "text": "Unown M : 22.376926,114.301525",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/6C8YA2UNZ6",
-          "expanded_url": "https://pogoapi.co/x/#49.28600,-123.09858",
-          "display_url": "pogoapi.co/x/#49.28600,-1…",
-          "indices": [
-            97,
-            120
-          ]
-        }
-      ]
+      "urls": []
     },
-    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
     "user": {
-      "id": 837234225715818500,
-      "id_str": "837234225715818497"
+      "id": 839966564963287000,
+      "id_str": "839966564963287040"
     },
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 4,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "en"
   },
- {
- "created_at": "Sun May 07 23:36:02 +0000 2017",
- "id": 861001641331392500,
- "id_str": "861001641331392512",
- "text": "TEST: Unown (B) (IV: 100%, TTL: 30m 0s) [Rincon Point, California, US]: https://t.co/6C8YA2UNZ6",
- "truncated": false,
- "entities": {
- "hashtags": [],
- "symbols": [],
- "user_mentions": [],
- "urls": [
-          {
-          "url": "https://t.co/6C8YA2UNZ6",
-          "expanded_url": "https://pogoapi.co/x/#34.372262,-119.478346",
-          "display_url": "pogoapi.co/x/#34.372262,-1…",
+  {
+    "created_at": "Sat Jun 17 05:02:39 +0000 2017",
+    "id": 875941738837413900,
+    "id_str": "875941738837413888",
+    "text": "Unown L : -34.768853,138.659052",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 839966564963287000,
+      "id_str": "839966564963287040"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Jun 17 05:01:20 +0000 2017",
+    "id": 875941407428620300,
+    "id_str": "875941407428620288",
+    "text": "Unown R : 45.602371,12.875177",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 839966564963287000,
+      "id_str": "839966564963287040"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Jun 17 04:50:06 +0000 2017",
+    "id": 875938582283857900,
+    "id_str": "875938582283857920",
+    "text": "Dartini 100% ; cp 713 : level 29+ : moveset :- dragon breath/ wrap. 39.956956,-75.136950",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 839966564963287000,
+      "id_str": "839966564963287040"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Jun 17 04:03:51 +0000 2017",
+    "id": 875926943086063600,
+    "id_str": "875926943086063616",
+    "text": "Unown C : 25.120542,121.254842",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 839966564963287000,
+      "id_str": "839966564963287040"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Jun 17 04:03:25 +0000 2017",
+    "id": 875926833447006200,
+    "id_str": "875926833447006210",
+    "text": "Unown E : -35.654646,137.641345",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 839966564963287000,
+      "id_str": "839966564963287040"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Jun 17 03:49:49 +0000 2017",
+    "id": 875923411272425500,
+    "id_str": "875923411272425472",
+    "text": "larvitar 100% : cp542 : level 21+ : moveset- bite / ancient power. 25.223770,121.647372",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 839966564963287000,
+      "id_str": "839966564963287040"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Jun 17 03:10:50 +0000 2017",
+    "id": 875913598484328400,
+    "id_str": "875913598484328448",
+    "text": "Unown C : 51.363390,12.392892",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 839966564963287000,
+      "id_str": "839966564963287040"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Jun 17 03:00:17 +0000 2017",
+    "id": 875910944664293400,
+    "id_str": "875910944664293377",
+    "text": "@2000_sparks What happened",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "2000_sparks",
+          "name": "Kristina Sparks",
+          "id": 2642189428,
+          "id_str": "2642189428",
           "indices": [
-                      97,
-                      120
-                      ]
-          }
+            0,
+            12
           ]
- },
- "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
- "in_reply_to_status_id": null,
- "in_reply_to_status_id_str": null,
- "in_reply_to_user_id": null,
- "in_reply_to_user_id_str": null,
- "in_reply_to_screen_name": null,
- "user": {
- "id": 837234225715818500,
- "id_str": "837234225715818497"
- },
- "geo": null,
- "coordinates": null,
- "place": null,
- "contributors": null,
- "is_quote_status": false,
- "retweet_count": 1,
- "favorite_count": 4,
- "favorited": false,
- "retweeted": false,
- "possibly_sensitive": false,
- "lang": "en"
- }
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 875907198831951900,
+    "in_reply_to_status_id_str": "875907198831951872",
+    "in_reply_to_user_id": 2642189428,
+    "in_reply_to_user_id_str": "2642189428",
+    "in_reply_to_screen_name": "2000_sparks",
+    "user": {
+      "id": 839966564963287000,
+      "id_str": "839966564963287040"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Jun 17 02:32:43 +0000 2017",
+    "id": 875904009181306900,
+    "id_str": "875904009181306881",
+    "text": "Snorlax 100%  : cp 2204 : level 23+ : moveset- zen headbutt/ earthquake. 23.948955,120.69385",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 839966564963287000,
+      "id_str": "839966564963287040"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
 ]
