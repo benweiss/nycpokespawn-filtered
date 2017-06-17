@@ -23,8 +23,6 @@ module.exports = (tweetStream, accountIDToFollow, locations) => {
 
     let data;
     try {
-      //data = { tweet.text };
-      
       data = parseTweet(tweet);
       
       // Diagnostic
@@ -65,6 +63,13 @@ function isDirectlyFromTheAccount(tweet, accountIDToFollow) {
 function parseTweet(tweet) {
   // Example tweet (@KingArt1993):
   // **Unown T ** 51.54015,-0.23135
+    
+  // Search for string 'Unown' in tweet text
+  var n = tweet.text.indexOf("Unown");
+    if (n == -1) {
+        console.log("String 'Unown' not found in tweet'");
+        return { };
+    }
 
   const text = tweet.text;
   return { text };
