@@ -42,7 +42,8 @@ module.exports = (tweetStream, accountIDToFollow, locations) => {
     const finalPosition_ = finalPosition;
 
     for (const location of locations) {
-      distanceToShortenedURL(location, finalPosition_).then(distance => {
+      const distance = distanceToShortenedURL(location, finalPosition_);
+      //distanceToShortenedURL(location, finalPosition_).then(distance => {
         if (distance < location.radius) {
           const dataWithCloseness = Object.assign({ distance, tweet, finalPosition, closeTo: location.label, players: location.players }, data);
           emitter.emit("spawn within range", dataWithCloseness);
@@ -50,7 +51,7 @@ module.exports = (tweetStream, accountIDToFollow, locations) => {
         else {
           //console.log("spawn out of range");
         }
-      })
+      //})
       .catch(err => emitter.emit("error", err));
     }
   });
