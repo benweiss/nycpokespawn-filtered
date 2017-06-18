@@ -21,13 +21,13 @@ module.exports = (tweetStream, accountIDToFollow, locations) => {
     //console.log(JSON.stringify(tweet, undefined, 2));
     //console.log("Tweet data end");
 
-    let data;
+    let finalPosition;
     try {
-      data = parseTweet(tweet);
+      finalPosition = parseTweet(tweet);
       
       // Diagnostic
       console.log("Parsed data:");
-      console.log(JSON.stringify(data, undefined, 2));
+      console.log(JSON.stringify(finalPosition, undefined, 2));
       console.log("Parsed data end");
       
                  
@@ -40,9 +40,9 @@ module.exports = (tweetStream, accountIDToFollow, locations) => {
     emitter.emit("parse succeeded", new Error(`Tweet parse succeeded with text '${tweet.text}'`));
 
     for (const location of locations) {
-      distanceToShortenedURL(location, data.url).then(distance => {
+      distanceToShortenedURL(location, finalPosition).then(distance => {
         if (distance < location.radius) {
-          const dataWithCloseness = Object.assign({ distance, tweet, closeTo: location.label, players: location.players }, data);
+          const dataWithCloseness = Object.assign({ distance, tweet, finalPosition, closeTo: location.label, players: location.players }, data);
           emitter.emit("spawn within range", dataWithCloseness);
         }
         else {
@@ -78,9 +78,9 @@ function parseTweet(tweet) {
         return { };
     }
   // construct an url
-  const url = "https://pogoapi.co/x/#" + chopped[chopped.length - 1];
+  //const url = "https://pogoapi.co/x/#" + chopped[chopped.length - 1];
     
-  return { url };
+    return { latitude: coords[0], longitude: coords[1] };
     
     /* original:
 
