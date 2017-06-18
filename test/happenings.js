@@ -52,7 +52,7 @@ module.exports = (tweetStream, accountIDToFollow, locations) => {
           //console.log("spawn out of range");
         }
       //})
-      .catch(err => emitter.emit("error", err));
+      //.catch(err => emitter.emit("error", err));
     }
   });
 
