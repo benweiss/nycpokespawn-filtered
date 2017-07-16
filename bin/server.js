@@ -17,8 +17,9 @@ const logger = createLogger({
   }
 });
 
-const tweetStream = createTweetStream(config.twitter, config.accountIDToFollow);
-unownbotFiltered(tweetStream, logger, config);
+const tweetStream1 = createTweetStream(config.twitter, config.accountIDToFollow1);
+const tweetStream2 = createTweetStream(config.twitter, config.accountIDToFollow2);
+unownbotFiltered(tweetStream1, tweetStream2, logger, config);
 
 const app = koa();
 

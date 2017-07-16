@@ -4,7 +4,8 @@ const config = require("../config.json");
 const fs = require("fs");
 const path = require("path");
 
-const destFilename = path.resolve(__dirname, "../test/fixtures/tweets.json");
+const destFilename1 = path.resolve(__dirname, "../test/fixtures/tweets1.json");
+const destFilename2 = path.resolve(__dirname, "../test/fixtures/tweets2.json");
 
 const t = new Twit({
   consumer_key: config.twitter.consumerKey,
@@ -14,14 +15,27 @@ const t = new Twit({
 });
 
 t.get("statuses/user_timeline", {
-  user_id: config.accountIDToFollow,
+  user_id: config.accountIDToFollow1,
   trim_user: true,
-  // we need to test these too
   exclude_replies: false,
   include_rts: true
 })
 .then(({ data }) => {
-  fs.writeFileSync(destFilename, JSON.stringify(data, undefined, 2));
+  fs.writeFileSync(destFilename1, JSON.stringify(data, undefined, 2));
+})
+.catch(e => {
+  console.error(e.stack);
+  process.exit(1);
+});
+
+t.get("statuses/user_timeline", {
+  user_id: config.accountIDToFollow2,
+  trim_user: true,
+  exclude_replies: false,
+  include_rts: true
+})
+.then(({ data }) => {
+  fs.writeFileSync(destFilename2, JSON.stringify(data, undefined, 2));
 })
 .catch(e => {
   console.error(e.stack);

@@ -8,7 +8,8 @@ const getConfig = require("../lib/config.js");
 const config = getConfig();
 
 if (config) {
-  const tweetStream = createTweetStream(config.twitter, config.accountIDToFollow);
+  const tweetStream1 = createTweetStream(config.twitter, config.accountIDToFollow1);
+  const tweetStream2 = createTweetStream(config.twitter, config.accountIDToFollow2);
   const logger = createLogger(console);
-  unownbotFiltered(tweetStream, logger, config);
+  unownbotFiltered(tweetStream1, tweetStream2, logger, config);
 }
