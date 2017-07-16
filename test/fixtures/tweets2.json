@@ -1,0 +1,882 @@
+[
+  {
+    "created_at": "Sun Jul 16 23:39:13 +0000 2017",
+    "id": 886731979533631500,
+    "id_str": "886731979533631488",
+    "text": "Unown (N) (IV: 35%, TTL: &lt;10m 0s) [Bronx, New York City, New York, US]: https://t.co/3Ctwx3TeCA 40.82425,-73.90774",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/3Ctwx3TeCA",
+          "expanded_url": "https://maps.google.com/?q=40.82425,-73.90774",
+          "display_url": "maps.google.com/?q=40.82425,-7…",
+          "indices": [
+            75,
+            98
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jul 16 23:01:13 +0000 2017",
+    "id": 886722415698395100,
+    "id_str": "886722415698395136",
+    "text": "Unown (IV: -, TTL: &lt;10m 0s) [Yokosuka, Kanagawa, JP]: https://t.co/9TOaJJBqwd 35.29080,139.65314",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/9TOaJJBqwd",
+          "expanded_url": "https://maps.google.com/?q=35.29080,139.65314",
+          "display_url": "maps.google.com/?q=35.29080,13…",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ht"
+  },
+  {
+    "created_at": "Sun Jul 16 22:51:07 +0000 2017",
+    "id": 886719874759774200,
+    "id_str": "886719874759774208",
+    "text": "Unown (Z) (IV: 77%, TTL: &lt;10m 0s) [Carpinteria, California, US]: https://t.co/YWBkDmhPf7 34.372262,-119.478346",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/YWBkDmhPf7",
+          "expanded_url": "https://maps.google.com/?q=34.372262,-119.478346",
+          "display_url": "maps.google.com/?q=34.37262,-1…",
+          "indices": [
+            66,
+            89
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jul 16 22:17:08 +0000 2017",
+    "id": 886711322536169500,
+    "id_str": "886711322536169473",
+    "text": "Unown (G) (IV: 51%, TTL: &lt;10m 0s) [Toronto, Ontario, CA]: https://t.co/vlSsj1SgOi 43.72974,-79.40361",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/vlSsj1SgOi",
+          "expanded_url": "https://maps.google.com/?q=43.72974,-79.40361",
+          "display_url": "maps.google.com/?q=43.72974,-7…",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jul 16 22:14:49 +0000 2017",
+    "id": 886710739984986100,
+    "id_str": "886710739984986112",
+    "text": "Unown (IV: -, TTL: 56m 45s) [Saanich, British Columbia, CA]: https://t.co/dhWV6hL2zy 48.45160,-123.36120",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/dhWV6hL2zy",
+          "expanded_url": "https://maps.google.com/?q=48.45160,-123.36120",
+          "display_url": "maps.google.com/?q=48.45160,-1…",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jul 16 22:09:08 +0000 2017",
+    "id": 886709308800380900,
+    "id_str": "886709308800380928",
+    "text": "Unown (T) (IV: 35%, TTL: &lt;10m 0s) [Strathfield, Sydney, New South Wales, AU]: https://t.co/KhfcD78f4Q -33.87453,151.07156",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/KhfcD78f4Q",
+          "expanded_url": "https://maps.google.com/?q=-33.87453,151.07156",
+          "display_url": "maps.google.com/?q=-33.87453,1…",
+          "indices": [
+            81,
+            104
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jul 16 21:40:33 +0000 2017",
+    "id": 886702117989138400,
+    "id_str": "886702117989138432",
+    "text": "Unown (IV: -, TTL: &lt;10m 0s) [Laurel, Virginia, US]: https://t.co/mc12ASjYse 37.63252,-77.54882",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/mc12ASjYse",
+          "expanded_url": "https://maps.google.com/?q=37.63252,-77.54882",
+          "display_url": "maps.google.com/?q=37.63252,-7…",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ht"
+  },
+  {
+    "created_at": "Sun Jul 16 21:31:55 +0000 2017",
+    "id": 886699942940627000,
+    "id_str": "886699942940626949",
+    "text": "Unown (IV: -, TTL: 29m 36s) [El Cajon, California, US]: https://t.co/O3GHWh4Hay 32.77936,-116.96588",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/O3GHWh4Hay",
+          "expanded_url": "https://maps.google.com/?q=32.77936,-116.96588",
+          "display_url": "maps.google.com/?q=32.77936,-1…",
+          "indices": [
+            56,
+            79
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jul 16 21:01:55 +0000 2017",
+    "id": 886692395672260600,
+    "id_str": "886692395672260608",
+    "text": "Unown (IV: 42%, TTL: 25m 26s) [Alameda, California, US]: https://t.co/9jMQO2QyD5 37.77276,-122.30256",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/9jMQO2QyD5",
+          "expanded_url": "https://maps.google.com/?q=37.77276,-122.30256",
+          "display_url": "maps.google.com/?q=37.77276,-1…",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jul 16 20:45:24 +0000 2017",
+    "id": 886688237195935700,
+    "id_str": "886688237195935744",
+    "text": "Unown (IV: -, TTL: 29m 57s) [Coldean, Brighton, England, GB]: https://t.co/pg9UQH4TYl 50.86156,-0.09970",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/pg9UQH4TYl",
+          "expanded_url": "https://maps.google.com/?q=50.86156,-0.09970",
+          "display_url": "maps.google.com/?q=50.86156,-0…",
+          "indices": [
+            62,
+            85
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jul 16 20:11:09 +0000 2017",
+    "id": 886679616986898400,
+    "id_str": "886679616986898436",
+    "text": "Unown (A) (IV: 31%, TTL: &lt;10m 0s) [Collaroy, Sydney, New South Wales, AU]: https://t.co/ONNClFdLpj -33.72920,151.29701",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ONNClFdLpj",
+          "expanded_url": "https://maps.google.com/?q=-33.72920,151.29701",
+          "display_url": "maps.google.com/?q=-33.72920,1…",
+          "indices": [
+            78,
+            101
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jul 16 19:09:08 +0000 2017",
+    "id": 886664010573037600,
+    "id_str": "886664010573037568",
+    "text": "Unown (F) (IV: 33%, TTL: &lt;10m 0s) [Melrose Park, Sydney, New South Wales, AU]: https://t.co/1vuJewkEQR -33.81570,151.07957",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/1vuJewkEQR",
+          "expanded_url": "https://maps.google.com/?q=-33.81570,151.07957",
+          "display_url": "maps.google.com/?q=-33.81570,1…",
+          "indices": [
+            82,
+            105
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jul 16 19:07:09 +0000 2017",
+    "id": 886663510880436200,
+    "id_str": "886663510880436224",
+    "text": "Unown (B) (IV: 8%, TTL: &lt;10m 0s) [Meadowvale, Mississauga, Ontario, CA]: https://t.co/NKmD8STqKD 43.56433,-79.76667",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/NKmD8STqKD",
+          "expanded_url": "https://maps.google.com/?q=43.56433,-79.76667",
+          "display_url": "maps.google.com/?q=43.56433,-7…",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "et"
+  },
+  {
+    "created_at": "Sun Jul 16 19:06:07 +0000 2017",
+    "id": 886663250628104200,
+    "id_str": "886663250628104192",
+    "text": "Unown (J) (IV: 75%, TTL: &lt;10m 0s) [St Ives, Sydney, New South Wales, AU]: https://t.co/uqIrshqxvO -33.71379,151.17587",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/uqIrshqxvO",
+          "expanded_url": "https://maps.google.com/?q=-33.71379,151.17587",
+          "display_url": "maps.google.com/?q=-33.71379,1…",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jul 16 18:55:06 +0000 2017",
+    "id": 886660482257436700,
+    "id_str": "886660482257436672",
+    "text": "Unown (Q) (IV: 33%, TTL: &lt;10m 0s) [Mississauga, Ontario, CA]: https://t.co/NC9h4INZpB 43.65163,-79.62402",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/NC9h4INZpB",
+          "expanded_url": "https://maps.google.com/?q=43.65163,-79.62402",
+          "display_url": "maps.google.com/?q=43.65163,-7…",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "pt"
+  },
+  {
+    "created_at": "Sun Jul 16 18:42:06 +0000 2017",
+    "id": 886657209685258200,
+    "id_str": "886657209685258242",
+    "text": "Unown (B) (IV: 44%, TTL: &lt;10m 0s) [Desert Shores, Las Vegas, Nevada, US]: https://t.co/gc2hthwpjs 36.21743,-115.26584",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/gc2hthwpjs",
+          "expanded_url": "https://maps.google.com/?q=36.21743,-115.26584",
+          "display_url": "maps.google.com/?q=36.21743,-1…",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jul 16 18:20:08 +0000 2017",
+    "id": 886651679281565700,
+    "id_str": "886651679281565696",
+    "text": "Unown (K) (IV: 62%, TTL: &lt;10m 0s) [Auburn, Sydney, New South Wales, AU]: https://t.co/UpyACkbofz -33.86082,151.02362",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/UpyACkbofz",
+          "expanded_url": "https://maps.google.com/?q=-33.86082,151.02362",
+          "display_url": "maps.google.com/?q=-33.86082,1…",
+          "indices": [
+            76,
+            99
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jul 16 17:35:00 +0000 2017",
+    "id": 886640323144818700,
+    "id_str": "886640323144818688",
+    "text": "Unown (IV: -, TTL: &lt;10m 0s) [Sterling, Virginia, US]: https://t.co/f2DBLoSldz 39.01811,-77.39062",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/f2DBLoSldz",
+          "expanded_url": "https://maps.google.com/?q=39.01811,-77.39062",
+          "display_url": "maps.google.com/?q=39.01811,-7…",
+          "indices": [
+            57,
+            80
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jul 16 17:13:08 +0000 2017",
+    "id": 886634820800925700,
+    "id_str": "886634820800925696",
+    "text": "Unown (F) (IV: 31%, TTL: &lt;10m 0s) [Melbourne (3000), Melbourne, Victoria, AU]: https://t.co/wLe9PNkIlC -37.81352,144.95951",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/wLe9PNkIlC",
+          "expanded_url": "https://maps.google.com/?q=-37.81352,144.95951",
+          "display_url": "maps.google.com/?q=-37.81352,1…",
+          "indices": [
+            82,
+            105
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Jul 16 17:12:49 +0000 2017",
+    "id": 886634737753702400,
+    "id_str": "886634737753702402",
+    "text": "Unown (IV: -, TTL: &lt;10m 0s) [Úlfarsárdalur, Reykjavik, IS]: https://t.co/OO6GMV5YaM 64.13408,-21.74724",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/OO6GMV5YaM",
+          "expanded_url": "https://maps.google.com/?q=64.13408,-21.74724",
+          "display_url": "maps.google.com/?q=64.13408,-2…",
+          "indices": [
+            63,
+            86
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitter.com/UnownBot\" rel=\"nofollow\">UnownBot</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 837234225715818500,
+      "id_str": "837234225715818497"
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "is"
+  }
+]
