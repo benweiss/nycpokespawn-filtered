@@ -21,7 +21,8 @@
     "lib/",
     "bin/",
     "scripts/",
-    "test/fixtures/tweets.json"
+    "test/fixtures/tweets1.json",
+    "test/fixtures/tweets2.json"
   ],
   "scripts": {
     "lint": "eslint lib scripts test",
